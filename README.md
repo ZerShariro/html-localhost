@@ -22,3 +22,5 @@ This program is designed to open your html file in localhost.
 <p>macOS</p>
 <p>Linux systems</p>
 <p>Windows</p>
+<h2>Run in Termux</h2>
+<pre><code>pkg install python</code></pre>
