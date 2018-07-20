@@ -13,11 +13,13 @@ This program is designed to open your html file in localhost.
 <p>2. Run lhc.py</p>
 <pre><code>cd html-localhost</code></pre>
 <pre><code>./lhc.py</code></pre>
+<p>3. Open any browser and enter localhost:8080</p>
 <p><h4>Start the directory in localhost</h4></p>
 <p>1. Put the necessary files in the directory</p>
 <p>2. Run lhc.py</p>
 <pre><code>cd html-localhost</code></pre>
 <pre><code>./lhc.py</code></pre>
+<p>3. Open any browser and enter localhost:8080</p>
 <h2>Operating Systems(OS)</h2>
 <p>macOS</p>
 <p>Linux systems</p>
